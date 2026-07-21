@@ -1,0 +1,34 @@
+body {
+	font-family:alef;
+	background-color:black; 
+H2 {
+	Color: Pink;
+	Text-align: center;
+}
+
+#Pagetitle {
+	Color:white;
+	Text-align:center; 
+	Background-color: pink; 
+	padding: 20px; 
+}
+
+
+.section {
+	Background-color: #F4c2c2;
+	Border: 5px solid White;
+	padding: 20px;
+	margin: 10px;
+}
+
+.section h2 {
+	color:White;
+	Text-align:center;
+}
+
+p{
+	text-align:center;
+	color: Pink;
+	Font-size: 50px;
+	font-weight:bold;
+}
